@@ -45,6 +45,7 @@ A Orion Capital contratou sua equipe para especificar e modelar o **SentinelTrad
 ## 👥 Integrantes
 
 | Nome | RA |
+|---|---|
 | Gabriel França Vita | 10438349 |
 | Enzo Conte | 10741326 |
 | Henrique Nani Cerqueira | 10735787 |
