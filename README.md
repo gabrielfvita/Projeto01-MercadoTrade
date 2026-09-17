@@ -42,6 +42,39 @@ A Orion Capital contratou sua equipe para especificar e modelar o **SentinelTrad
 
 ---
 
+## 🛠️ Tecnologias
+
+O projeto encontra-se atualmente na etapa de **especificação e modelagem**.
+
+- Git e GitHub — versionamento e gerenciamento do projeto;
+- UML — modelagem do sistema;
+- Markdown — documentação do repositório.
+
+As tecnologias utilizadas na implementação serão adicionadas conforme o desenvolvimento do projeto.
+
+---
+
+## 📂 Documentação
+
+A documentação do projeto está disponível na pasta `docs/`, contendo os requisitos, diagramas e demais evidências produzidas durante o desenvolvimento.
+
+```text
+docs/
+├── requisitos/
+├── diagramas/
+└── evidencias/
+```
+
+---
+
+## ▶️ Execução
+
+O projeto encontra-se atualmente na fase de especificação e modelagem e, portanto, ainda não possui uma aplicação executável.
+
+As instruções de instalação e execução serão adicionadas conforme o desenvolvimento da implementação.
+
+---
+
 ## 👥 Integrantes
 
 | Nome | RA |
